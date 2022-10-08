@@ -18,3 +18,11 @@
 - libcudnn8
 - zsh + oh my zsh!
 
+
+
+## Credits
+
+- [vrodriguezf](https://github.com/vrodriguezf)
+- [Huertas97](https://github.com/Huertas97)
+
+
